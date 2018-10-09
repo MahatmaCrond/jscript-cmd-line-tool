@@ -14,6 +14,7 @@ Credit goes to: MrBrownstone, mrbrownstone@virtualconspiracy.com
 
 <b>Options:</b>
 <br />
+
 Use -urldec to unescape %xx style encoding on the fly, or -htmldec to unescape & style encoding.
 
 Use -dumb to bypass HTMLGuardian defeation mechanism.
