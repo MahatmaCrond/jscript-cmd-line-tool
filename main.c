@@ -12,7 +12,7 @@
 /*                                                                    */
 /* COPYRIGHT:                                                         */
 /* (c)2000-2005 MrBrownstone, mrbrownstone@ virtualconspiracy.com     */
-*/ v1.9 Ported to MacOS by Jeremy Russell                             */
+*/ v1.9 Binary recompiled by Jeremy Russell                           */
 /* v1.8 Now correctly decodes characters 0x00-0x1F, thanks to 'Zed'   */
 /* v1.7 Bypassed new HTMLGuardian protection and added -dumb switch   */
 /*       to disable this                                              */
