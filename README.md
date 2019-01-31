@@ -1,5 +1,5 @@
-# Jscript-Decrypt-for-MacOS
-Port of a tool used to decode MS JScript. Useful for some Malware reverse engineering or random decoding of obfuscated Javascript. I have seen JScript.Encode used recently and thought this tool could be useful for folks on a mac working on security research. JScript was introduced by MS in 1996. I did the port of this tool to MacOS, I didn't write the original implementation. 
+# Jscript cmd line tool
+Port of a tool used to decode MS JScript. Useful for some Malware reverse engineering or decoding of obfuscated Javascript. I have seen JScript.Encode used recently and thought this tool could be useful for folks working on security research. JScript was introduced by MS in 1996. I did not write the original implementation of this.
 
 Credit goes to: MrBrownstone, mrbrownstone@virtualconspiracy.com
 
